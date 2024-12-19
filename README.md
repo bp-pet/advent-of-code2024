@@ -1,0 +1,2 @@
+# Advent of Code 2024 solutions
+This year I didn't really refactor any code after my initial solution, and I mostly focussed on getting it done quickly. Sometimes I did some extra work like typing for the sake of practice. I used packages like networkx where relevant, also for practice. On a few occassions I got a hint, those have been mentioned in the header of the respective file.
